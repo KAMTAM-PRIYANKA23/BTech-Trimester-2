@@ -39,23 +39,26 @@ This subject helped me understand the mathematical ideas behind AI computations 
 - Vector-space relationships in NLP.
 - Latent spaces in generative models.
 
-## Lab Work: House Price Prediction
+## Lab Work: House Price Estimation
 
-As part of the Mathematics for AI lab, I worked on a **House Price Prediction** problem to connect mathematical concepts with an AI implementation.
+As part of the Mathematics for AI lab, I worked on a **House Price Estimation** problem to understand how mathematical operations are used in neural network computations.
 
-My work focused on:
+The project demonstrates:
 
-- Deriving the model mathematically.
-- Understanding how a loss function measures prediction error.
-- Exploring loss minimization.
-- Understanding gradient-based learning and how model parameters are updated.
-- Connecting the mathematical steps to a Python implementation.
+- Representing house details as an input vector.
+- Using matrix multiplication to process input features.
+- Applying weights and biases in neural network calculations.
+- Using the ReLU activation function in the hidden layer.
+- Calculating the final output through the output layer.
+- Implementing the mathematical operations using Python and NumPy.
 
-The implementation was written in Python.
+### Neural Network Architecture
+
+The model uses three input features, two hidden neurons and one output neuron to calculate a house price score.
 
 ### What This Exercise Helped Me Understand
 
-It helped me follow how a mathematical model can be expressed in code, how a loss function is used during learning, and how gradient-based updates fit into an AI workflow.
+This exercise helped me understand how vectors, matrices, weights, biases and activation functions work together in a neural network, and how mathematical calculations can be implemented using Python.
 
 ## Evidence
 
