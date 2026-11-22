@@ -1,4 +1,4 @@
-﻿# Data Structures and Algorithms - 1
+# Data Structures and Algorithms - 1
 
 This subject introduced algorithm analysis and the data structures used to organise, access and process information.
 
@@ -37,16 +37,29 @@ The practical learning areas are organised by topic in this folder.
 
 ## Course Project: PreSareeFinder
 
-I also worked on **PreSareeFinder**, a Java console-based application that applies data structures and algorithms to a saree-search and shopping workflow.
+PreSareeFinder is a Java console-based application that applies data structures and algorithms to a saree-search and shopping workflow.
 
-The project includes mall selection, saree search, wishlist, cart and billing features. Its implementation uses concepts such as arrays, linked lists, stacks, queues, hashing and searching/sorting algorithms.
+### Project Features
+- Mall selection.
+- Saree search.
+- Wishlist and cart management.
+- Billing functionality.
 
-**Project repository:**  
-[PreSareeFinder - DSA](https://github.com/KAMTAM-PRIYANKA23/PreSareeFinder-Project-DSA)
+### Concepts Applied
+- Arrays and linked lists.
+- Stacks and queues.
+- Hashing.
+- Searching and sorting algorithms.
+
+**Project resources:**
+- [DSA Project Repository](https://github.com/KAMTAM-PRIYANKA23/PreSareeFinder-Project-DSA)
+- [Project README](https://github.com/KAMTAM-PRIYANKA23/PreSareeFinder-Project-DSA/blob/main/README.md)
 
 ## Practical Organisation
 
 The folders are grouped by the concepts covered in the subject, including searching, sorting, linked lists, stacks, queues, heaps and hashing.
+
+Practical programs will be added to their respective folders as they are completed.
 
 ---
 

@@ -51,7 +51,7 @@ My work focused on:
 - Understanding gradient-based learning and how model parameters are updated.
 - Connecting the mathematical steps to a Python implementation.
 
-The implementation was written in Python with guidance from ChatGPT, as permitted in the lab.
+The implementation was written in Python.
 
 ### What This Exercise Helped Me Understand
 
@@ -59,7 +59,10 @@ It helped me follow how a mathematical model can be expressed in code, how a los
 
 ## Evidence
 
-The accompanying project explanation documents the House Price Prediction exercise.
+The accompanying project documentation includes the mathematical calculations, Python implementation, output and exercise explanation.
+
+- [View House Price Prediction Project Report](House-Price-Prediction/MAI-Project.pdf)
+- [View Project README](House-Price-Prediction/README.md)
 
 ---
 
